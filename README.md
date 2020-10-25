@@ -6,4 +6,4 @@ Knit types currently are o: oikea neule and v: nurha neule
 
 ### image of the app
 
-![Image of app](src/images/finished_knitting.JPG =100x200)
+<img src= 'src/images/finished_knitting.JPG' alt='Image of app' height='200'/>
