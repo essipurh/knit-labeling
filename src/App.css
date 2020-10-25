@@ -2,6 +2,17 @@
   text-align: center;
 }
 
+.App-knit {
+  padding-top: 20px;
+  font-size: 18px;
+  color: black;
+}
+
+#btn {
+  height: 30px;
+  width: 100px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
